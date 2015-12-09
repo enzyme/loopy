@@ -32,7 +32,7 @@ The above will output `1, 2, 3, `
 
 #### Deep
 
-A deep loop over an multidimensional array.
+A deep loop over a multidimensional array.
 
 ```php
 use Enzyme\Loopy\Each;
