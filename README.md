@@ -69,10 +69,10 @@ The above will output `1, 2, 4, 5, `
 
 The `$bag` object passed to the callback function generally contains the follow information.
 
-Key | Value
-----|------
-key() | The key
-value() | The value
-cycle() | The current cycle (0 based)
-depth() | The current depth (0 based)
-index() | The current index (0 based)
+Key | Value | Description
+----|-------|------------
+key() | Key | The enumerable objects key for the given pass.
+value() | Value | The enumerable objects value for the given pass.
+cycle() | Current cycle (0 based) | How many times around the entire object the looper has gone.
+depth() | Current depth (0 based) | The current depth of the pass, for multidimensional arrays.
+index() | Current index (0 based) | The current index, in this case index is really a count of the number of items encountered so far.
