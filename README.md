@@ -1,4 +1,5 @@
-![Loopy Icon](https://cloud.githubusercontent.com/assets/2805249/11684981/4d6de34c-9ec1-11e5-97a1-2aee3eb0ab3b.png)
+![Loopy Icon](https://cloud.githubusercontent.com/assets/2805249/11684981/4d6de34c-9ec1-11e5-97a1-2aee3eb0ab3b.png =150)
+
 [![Build Status](https://travis-ci.org/enzyme/loopy.svg)](https://travis-ci.org/enzyme/loopy)
 [![Coverage Status](https://coveralls.io/repos/enzyme/loopy/badge.svg?branch=master&service=github)](https://coveralls.io/github/enzyme/loopy?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/enzyme/loopy/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/enzyme/loopy/?branch=master)
