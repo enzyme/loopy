@@ -177,7 +177,7 @@ class Each implements LooperInterface
      */
     protected function processIteration($key, $value, $function)
     {
-        $function($this->packBag($key, $value, $function));
+        $function($this->packBag($key, $value));
         $this->index++;
     }
 
