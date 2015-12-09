@@ -44,7 +44,7 @@ Each::deep()->begin($array, function($bag) {
 });
 ```
 
-The above will output `1, 2, 3, 4, 5, 6`
+The above will output `1, 2, 3, 4, 5, 6, `
 
 #### Filtered
 
