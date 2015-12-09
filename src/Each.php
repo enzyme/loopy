@@ -90,7 +90,7 @@ class Each implements LooperInterface
      */
     public function begin($enumerable, Closure $function, $cycles = 1)
     {
-        if($this->isEnumerable($enumerable) === false) {
+        if ($this->isEnumerable($enumerable) === false) {
             throw new InvalidLoopException('The supplied $enumerable object cannot be enumerated.');
         }
 
