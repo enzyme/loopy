@@ -1,6 +1,7 @@
 # loopy
 [![Build Status](https://travis-ci.org/enzyme/loopy.svg)](https://travis-ci.org/enzyme/loopy)
 [![Coverage Status](https://coveralls.io/repos/enzyme/loopy/badge.svg?branch=master&service=github)](https://coveralls.io/github/enzyme/loopy?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/enzyme/loopy/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/enzyme/loopy/?branch=master)
 
 A loop library for PHP.
 
