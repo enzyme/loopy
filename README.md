@@ -1,4 +1,4 @@
-![Loopy Icon](https://cloud.githubusercontent.com/assets/2805249/11684981/4d6de34c-9ec1-11e5-97a1-2aee3eb0ab3b.png =150)
+![Loopy Icon](https://cloud.githubusercontent.com/assets/2805249/11684981/4d6de34c-9ec1-11e5-97a1-2aee3eb0ab3b.png =150x)
 
 [![Build Status](https://travis-ci.org/enzyme/loopy.svg)](https://travis-ci.org/enzyme/loopy)
 [![Coverage Status](https://coveralls.io/repos/enzyme/loopy/badge.svg?branch=master&service=github)](https://coveralls.io/github/enzyme/loopy?branch=master)
