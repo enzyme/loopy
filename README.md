@@ -76,3 +76,13 @@ value() | Value | The enumerable objects value for the given pass.
 cycle() | Current cycle (0 based) | How many times around the entire object the looper has gone.
 depth() | Current depth (0 based) | The current depth of the pass, for multidimensional arrays.
 index() | Current index (0 based) | The current index, in this case index is really a count of the number of items encountered so far.
+
+# Filters
+
+Filter | Description
+-------|------------
+SkipNulls | Will skip over any values which are null.
+Regex | Will test value against the supplied regular expression.
+Equal | Will test value for equality against the given rule. (===)
+Less | Will test that value is less than the give rule, or less than or equal if parameter 2 in the constructor is set to true.
+Greater | Will test that value is greater than the give rule, or greater than or equal if parameter 2 in the constructor is set to true.
